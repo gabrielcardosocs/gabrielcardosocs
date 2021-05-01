@@ -6,7 +6,7 @@ My name is Gabriel, I’m 23 years old. I am a Analysis and Systems Development,
 [![Linkedin Badge](https://img.shields.io/badge/-GabrielCardoso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pirodriguees)](https://www.linkedin.com/in/gabriel-cardosoo/)
 [![Gmail Badge](https://img.shields.io/badge/-sgabrielcardosoc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sgabrielcardosoc@gmail.com)](mailto:sgabrielcardosoc@gmail.com)
 
-![gitstats](https://github-readme-stats-one-eta.vercel.app/api?username=gabrielcardosc&show_icons=true&hide_border=true)
+![gitstats](https://github-readme-stats-one-eta.vercel.app/api?username=gabrielcardocs&show_icons=true&hide_border=true)
 
       
 :earth_americas: Living in Limeira, Brazil      
