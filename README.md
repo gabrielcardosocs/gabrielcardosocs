@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Gabriel, I’m 23 years old. I am a Computer Science student, currently working with Suport Tecnichal :computer:, always seeking theoretical and practical knowledge regarding tools, development and automation.
+My name is Gabriel, I’m 23 years old. I am a Analysis and Systems Development, currently working with Suport Tecnichal :computer:, always seeking theoretical and practical knowledge regarding tools, development and automation.
 
 ### Find me here :D
 [![Linkedin Badge](https://img.shields.io/badge/-GabrielCardoso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pirodriguees)](https://www.linkedin.com/in/gabriel-cardosoo/)
